@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"jklb","classId":1,"equips":[],"faceIndex":1,"faceName":"Monster","traits":[{"code":41,"dataId":1,"value":1},{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"一","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"jklb","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Monster","traits":[{"code":41,"dataId":1,"value":1},{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"零","nickname":"","note":"","profile":""}
+]

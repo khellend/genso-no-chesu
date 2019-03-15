@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":111,"indent":0,"parameters":[0,19,0]},{"code":111,"indent":1,"parameters":[12,"$gameParty.members()[0].actorId() === 1"]},{"code":129,"indent":2,"parameters":[1,1,false]},{"code":129,"indent":2,"parameters":[1,0,false]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":129,"indent":2,"parameters":[2,1,false]},{"code":129,"indent":2,"parameters":[2,0,false]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":121,"indent":1,"parameters":[20,20,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"切换","switchId":19,"trigger":0},
+{"id":4,"list":[{"code":121,"indent":0,"parameters":[19,19,1]},{"code":230,"indent":0,"parameters":[300]},{"code":121,"indent":0,"parameters":[19,19,0]},{"code":121,"indent":0,"parameters":[20,20,1]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":20,"trigger":2}
+]

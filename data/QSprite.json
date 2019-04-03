@@ -1,0 +1,228 @@
+{
+  "test": {
+    "name": "test",
+    "cols": 3,
+    "rows": 12,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "F:\\genso no chesu\\img\\characters\\%test-Actor2.png",
+    "poses": {
+      "move2": {
+        "name": "move2",
+        "speed": 15,
+        "adjust": true,
+        "pattern": [
+          1,
+          0,
+          1,
+          2
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 15,
+        "adjust": true,
+        "pattern": [
+          4,
+          3,
+          4,
+          3
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 15,
+        "adjust": true,
+        "pattern": [
+          7,
+          6,
+          8,
+          6
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 15,
+        "adjust": true,
+        "pattern": [
+          10,
+          9,
+          11,
+          9
+        ]
+      },
+      "atk2": {
+        "name": "atk2",
+        "speed": 15,
+        "adjust": true,
+        "pattern": [
+          12,
+          13,
+          14
+        ]
+      },
+      "atk4": {
+        "name": "atk4",
+        "speed": 15,
+        "adjust": true,
+        "pattern": [
+          16,
+          16,
+          17
+        ]
+      },
+      "atk6": {
+        "name": "atk6",
+        "speed": 15,
+        "adjust": true,
+        "pattern": [
+          19,
+          18,
+          20
+        ]
+      },
+      "atk8": {
+        "name": "atk8",
+        "speed": 15,
+        "adjust": true,
+        "pattern": [
+          22,
+          23,
+          21
+        ]
+      },
+      "idleA2": {
+        "name": "idleA2",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          4,
+          7,
+          10
+        ]
+      },
+      "idleA4": {
+        "name": "idleA4",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          16,
+          19,
+          22
+        ]
+      },
+      "idleA6": {
+        "name": "idleA6",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          28,
+          31,
+          34
+        ]
+      },
+      "idleA8": {
+        "name": "idleA8",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          40,
+          43,
+          46
+        ]
+      },
+      "idleB4x4": {
+        "name": "idleB4x4",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14
+        ]
+      },
+      "idleB4x2": {
+        "name": "idleB4x2",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2
+        ]
+      },
+      "idleB4x6": {
+        "name": "idleB4x6",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26
+        ]
+      },
+      "idleB4x8": {
+        "name": "idleB4x8",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38
+        ]
+      },
+      "test2": {
+        "name": "test2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      },
+      "test4": {
+        "name": "test4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65
+        ]
+      },
+      "test6": {
+        "name": "test6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          72,
+          73,
+          74,
+          75,
+          76,
+          77
+        ]
+      },
+      "test8": {
+        "name": "test8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          84,
+          85,
+          86,
+          87,
+          88,
+          89
+        ]
+      }
+    }
+  }
+}

@@ -93,46 +93,46 @@
       },
       "idleA2": {
         "name": "idleA2",
-        "speed": 15,
+        "speed": 5,
         "adjust": false,
         "pattern": [
-          4,
+          0,
           7,
           10
         ]
       },
       "idleA4": {
         "name": "idleA4",
-        "speed": 15,
+        "speed": 5,
         "adjust": false,
         "pattern": [
-          16,
-          19,
-          22
+          5,
+          1,
+          7
         ]
       },
       "idleA6": {
         "name": "idleA6",
-        "speed": 15,
+        "speed": 5,
         "adjust": false,
         "pattern": [
-          28,
-          31,
-          34
+          8,
+          34,
+          28
         ]
       },
       "idleA8": {
         "name": "idleA8",
-        "speed": 15,
+        "speed": 5,
         "adjust": false,
         "pattern": [
-          40,
-          43,
-          46
+          9,
+          4,
+          1
         ]
       },
-      "idleB4x4": {
-        "name": "idleB4x4",
+      "idleB2": {
+        "name": "idleB2",
         "speed": 15,
         "adjust": false,
         "pattern": [
@@ -141,8 +141,8 @@
           14
         ]
       },
-      "idleB4x2": {
-        "name": "idleB4x2",
+      "idleB4": {
+        "name": "idleB4",
         "speed": 15,
         "adjust": false,
         "pattern": [
@@ -151,8 +151,8 @@
           2
         ]
       },
-      "idleB4x6": {
-        "name": "idleB4x6",
+      "idleB6": {
+        "name": "idleB6",
         "speed": 15,
         "adjust": false,
         "pattern": [
@@ -161,8 +161,8 @@
           26
         ]
       },
-      "idleB4x8": {
-        "name": "idleB4x8",
+      "idleB8": {
+        "name": "idleB8",
         "speed": 15,
         "adjust": false,
         "pattern": [
